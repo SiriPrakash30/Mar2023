@@ -1,2 +1,3 @@
 This is the new story in story2
 this is newly added line in story2.txt
+this is line3 in story2
