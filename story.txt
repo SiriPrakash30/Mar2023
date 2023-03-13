@@ -1,1 +1,2 @@
 echo "this is a beautiful story"
+ths is line2
